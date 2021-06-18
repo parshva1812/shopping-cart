@@ -1,0 +1,70 @@
+{
+    "product":[
+        {
+            "_id": "dress1",
+            "image":"https://dictionary.cambridge.org/images/thumb/dress_noun_002_11545.jpg?version=5.0.176",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["XL","L","XXL"],
+            "price":200
+        },
+        {
+            "_id": "dress2",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKYuglJ_pWhGD42Yyx97bO5pXg3-E4EWEOQihzkhY1hmnw8SqjdhVAfmY6NGjWpgh2uo&usqp=CAU",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["L","M","XXL"],
+            "price":450
+        },
+        {
+            "_id": "dress3",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKRA5c7WjwdfGqmHRHx_ENNO-JdgB2iqIlg&usqp=CAU",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["XL","L","M"],
+            "price":800
+        },
+        {
+            "_id": "dress4",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKv26k4gLFqX3x-ojeu-HGdtcrFRzD3YxdBg&usqp=CAU",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["XL","L","XXL"],
+            "price":200
+        },
+        {
+            "_id": "dress5",
+            "image":"https://dictionary.cambridge.org/images/thumb/dress_noun_002_11545.jpg?version=5.0.176",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["M","L","XXL"],
+            "price":500
+        },
+        {
+            "_id": "dress6",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGEoCZvlE7KcpK1eW_rdCkjrcOIqvD_PT7w&usqp=CAU",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["XL","L","XXL"],
+            "price":450
+        },
+        {
+            "_id": "dress7",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRrTjmecuCTFRp4jCB1pP6dDOb2LcMF0djeg&usqp=CAU",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["L","M"],
+            "price":620
+        },
+        {
+            "_id": "dress8",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-EshE1FfWoXDg5z7itjjVv3cEjAA7pqZ8g&usqp=CAU",
+            "title":"midi sundress",
+            "description":"this is for all the people",
+            "availableSizes":["M","L","XL"],
+            "price":990
+        }
+    ]
+
+
+}

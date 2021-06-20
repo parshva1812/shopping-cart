@@ -1,11 +1,13 @@
 
 import './App.css';
 import data from './data.json';
-import React from 'react'
+import React from 'react';
+import Products from './components/Products';
 
 class App extends React.Component {
   constructor() {
     super();
+   
     this.state = {
       products: data.product,
       size: "",
@@ -21,7 +23,7 @@ class App extends React.Component {
         <main>
           <div className="content">
             <div className="main">
-              product
+            <Products products={this.state.products}></Products>
 
             </div>
             <div className="sidebar">
